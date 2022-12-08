@@ -1,0 +1,8 @@
+{
+    "name": "Deneme2",
+    "blocks": {
+        "/blockchain/solana": true,
+        "/blockchain/solana/rust": true,
+        "/framework/react": true
+    }
+}
